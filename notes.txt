@@ -1,0 +1,14 @@
+table tag : is a container tag in html in which provides us features to store data in the rows and columns
+tr tag is used for row in a table tag
+td tag is used for column in a table tag
+
+1. If we need to make a column, then we have to make row
+2. When we create a new row, by default it will come under the first row
+
+If we have to show something in a browser then we have to write it body tag
+
+When we comment of any code - Compiler can only read but do not execute it 
+
+colspan = kisi bhi column ke baad ke column ka baad valle column ka space lena ho
+{isse ham next valle column ka space le lete hai} 
+rowspan attribute se ham row ke just niche valle row ka space merge karte hai
